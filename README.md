@@ -1,5 +1,5 @@
 # Deploying to GitHub pages
-ng build --prod --base-href "https://nikuzejl.github.io/UniversityGuide/"
+ng build --prod --base-href "https://nikuzejl.github.io/uni-app-guide/"
 
 git add .
 
